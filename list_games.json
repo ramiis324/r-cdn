@@ -1,0 +1,904 @@
+[
+	{
+		"gameIndex": "games/3dcity/index.html",
+		"gameName": "3D.CITY",
+		"popular": false,
+        "details": {
+			"Release Date": "June 6, 2014",
+			"Credits": "lo-th"
+		}
+	},
+	{
+		"gameIndex": "games/2048/index.html",
+		"gameName": "2048",
+		"popular": false,
+        "details": {
+			"Release Date": "March 5, 2014",
+			"Credits": "Gabriele Cirulli"
+		}
+	},
+	{
+		"gameIndex": "games/aceattorney/index.html",
+		"gameName": "Ace Attorney",
+		"popular": false,
+        "details": {
+			"Release Date": "October 12, 2001",
+			"Emulator": "Nintendo DS",
+			"Credits": "Capcom"
+		}
+	},
+	{
+		"gameIndex": "games/adventurecapitalist/index.html",
+		"gameName": "AdVenture Capitalist",
+		"popular": true,
+        "details": {
+			"Release Date": "May 30, 2014",
+			"Credits": "Hyper Hippo"
+		}
+	},
+	{
+		"gameIndex": "games/animalcrossingwildworld/index.html",
+		"gameName": "Animal Crossing: Wild World",
+		"popular": false,
+        "details": {
+			"Release Date": "November 23, 2005",
+			"Emulator": "Nintendo DS",
+			"Credits": "Nintendo"
+		}
+	},
+	{
+		"gameIndex": "flash.html?animatorvsanimation",
+		"gameName": "Animator Vs Animation",
+		"popular": false,
+        "details": {
+			"Release Date": "June 3, 2006",
+			"Emulator": "Flash",
+			"Credits": "Alan Becker"
+		}
+	},
+	{
+		"gameIndex": "games/backrooms/index.html",
+		"gameName": "Backrooms",
+		"popular": false,
+        "details": {
+			"Release Date": "June 1, 2019",
+			"Credits": "IEP Games"
+		}
+	},
+	{
+		"gameIndex": "games/badtimesimulator/index.html",
+		"gameName": "Bad Time Simulator",
+		"popular": true,
+        "details": {
+			"Release Date": "August 18, 2021",
+			"Credits": "jcw87"
+		}
+	},
+	{
+		"gameIndex": "games/balatro/index.html",
+		"gameName": "Balatro",
+		"popular": true,
+        "details": {
+			"Release Date": "February 20, 2024",
+			"Credits": "LocalThunk"
+		}
+	},
+	{
+		"gameIndex": "games/basketballstars/index.html",
+		"gameName": "Basketball Stars",
+		"popular": false,
+        "details": {
+			"Release Date": "March 16, 2016",
+			"Credits": "Miniclip"
+		}
+	},
+	{
+		"gameIndex": "games/beeswarmsimulator/index.html",
+		"gameName": "Bee Swarm Simulator",
+		"popular": false,
+        "details": {
+			"Release Date": "March 21, 2018",
+			"Credits": "Onett",
+			"Port": "Dddatt"
+		}
+	},
+	{
+		"gameIndex": "games/bergentruck201x/index.html",
+		"gameName": "BERGENTRUCK 201X",
+		"popular": false,
+        "details": {
+			"Release Date": "July 21, 2015",
+			"Credits": "Paledoptera"
+		}
+	},
+	{
+		"gameIndex": "games/bitlife/index.html",
+		"gameName": "BitLife",
+		"popular": true,
+        "details": {
+			"Release Date": "September 29, 2018",
+			"Credits": "CandyWriter"
+		}
+	},
+	{
+		"gameIndex": "games/blockblast/index.html",
+		"gameName": "Block Blast",
+		"popular": true,
+        "details": {
+			"Release Date": "September 23, 2022",
+			"Credits": "Hungry Studio"
+		}
+	},
+	{
+		"gameIndex": "flash.html?bloonstd1",
+		"gameName": "Bloons TD 1",
+		"popular": false,
+        "details": {
+			"Release Date": "August 16, 2001",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
+	},
+	{
+		"gameIndex": "flash.html?bloonstd2",
+		"gameName": "Bloons TD 2",
+		"popular": false,
+        "details": {
+			"Release Date": "November 30, 2021",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
+	},
+	{
+		"gameIndex": "flash.html?bloonstd3",
+		"gameName": "Bloons TD 3",
+		"popular": false,
+        "details": {
+			"Release Date": "September 2, 2008",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
+	},
+	{
+		"gameIndex": "flash.html?bloonstd5",
+		"gameName": "Bloons TD 5",
+		"popular": false,
+        "details": {
+			"Release Date": "December 13, 2011",
+			"Emulator": "Flash",
+			"Credits": "NinjaKiwi"
+		}
+	},
+	{
+		"gameIndex": "flash.html?bloxorz",
+		"gameName": "Bloxorz",
+		"popular": false,
+		"details": {
+			"Release Date": "August 22nd, 2007",
+			"Emulator": "Flash",
+			"Credits": "Damien Clarke"
+		}
+	},
+	{
+		"gameIndex": "games/bobtherobber2/index.html",
+		"gameName": "Bob the Robber 2",
+		"popular": false,
+		"details": {
+			"Release Date": "June 4, 2015",
+			"Credits": "Chillingo"
+		}
+	},
+	{
+		"gameIndex": "flash.html?breakingthebank",
+		"gameName": "Breaking the Bank",
+		"popular": false,
+		"details": {
+			"Release Date": "August 27, 2008",
+			"Emulator": "Flash",
+			"Credits": "PuffballsUnited"
+		}
+	},
+	{
+		"gameIndex": "games/celeste/index.html",
+		"gameName": "Celeste",
+		"popular": false,
+		"details": {
+			"Release Date": "January 25, 2018",
+			"Credits": "Maddy Thorson"
+		}
+	},
+	{
+		"gameIndex": "games/classof09demo/index.html",
+		"gameName": "Class of '09: Demo",
+		"popular": false,
+		"details": {
+			"Release Date": "June 10, 2021",
+			"Credits": "SBN3"
+		}
+	},
+    {
+		"gameIndex": "games/classof09thereup/index.html",
+		"gameName": "Class of '09: The Re-Up",
+		"popular": false,
+		"details": {
+			"Release Date": "June 2, 2023",
+			"Credits": "SBN3"
+		}
+	},
+	{
+		"gameIndex": "games/cookieclicker/index.html",
+		"gameName": "Cookie Clicker",
+		"popular": true,
+		"details": {
+			"Release Date": "August 8, 2013",
+			"Credits": "Orteil",
+			"Port": "ozh"
+		}
+	},
+	{
+		"gameIndex": "games/cookingmama/index.html",
+		"gameName": "Cooking Mama",
+		"popular": false,
+		"details": {
+			"Release Date": "March 23, 2006",
+			"Emulator": "Nintendo DS",
+			"Credits": "Office Create"
+		}
+	},
+	{
+		"gameIndex": "games/cookingmama2/index.html",
+		"gameName": "Cooking Mama 2",
+		"popular": false,
+		"details": {
+			"Release Date": "November 13, 2007",
+			"Emulator": "Nintendo DS",
+			"Credits": "Office Create"
+		}
+	},
+	{
+		"gameIndex": "games/cookingmama3/index.html",
+		"gameName": "Cooking Mama 3",
+		"popular": false,
+		"details": {
+			"Release Date": "October 20, 2009",
+			"Emulator": "Nintendo DS",
+			"Credits": "Office Create"
+		}
+	},
+	{
+		"gameIndex": "games/craftmine/index.html",
+		"gameName": "Craftmine",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/crossyroad/index.html",
+		"gameName": "Crossy Road",
+		"popular": false,
+		"details": {
+			"Release Date": "November 20, 2014",
+			"Credits": "Hipster Whale"
+		}
+	},
+	{
+		"gameIndex": "games/cuttherope/index.html",
+		"gameName": "Cut the Rope",
+		"popular": true,
+		"details": {
+			"Release Date": "October 4, 2010",
+			"Credits": "ZeptoLab"
+		}
+	},
+	{
+		"gameIndex": "games/cuttheropeholidaygift/index.html",
+		"gameName": "Cut the Rope: Holiday Gift",
+		"popular": false,
+		"details": {
+			"Release Date": "December 10th, 2010",
+			"Credits": "ZeptoLab"
+		}
+	},
+	{
+		"gameIndex": "games/cuttheropetimetravel/index.html",
+		"gameName": "Cut the Rope: Time Travel",
+		"popular": false,
+		"details": {
+			"Release Date": "April 17, 2013",
+			"Credits": "ZeptoLab"
+		}
+	},
+	{
+		"gameIndex": "games/deltarune/index.html",
+		"gameName": "DELTARUNE",
+		"popular": true,
+		"details": {
+			"Release Date": "July 21, 2017",
+			"Credits": "Toby Fox",
+			"Port": "Genizy"
+		}
+	},
+	{
+		"gameIndex": "flash.html?douchebaglife",
+		"gameName": "Douchebag Life",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?douchebagworkout2",
+		"gameName": "Douchebag Workout 2",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/drawthehill/index.html",
+		"gameName": "Draw the Hill",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?ducklife1",
+		"gameName": "Duck Life 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?ducklife2",
+		"gameName": "Duck Life 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?ducklife3",
+		"gameName": "Duck Life 3",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ducklife4/index.html",
+		"gameName": "Duck Life 4",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/ducklifespace/index.html",
+		"gameName": "Duck Life: Space",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?ducklifetreasurehunt",
+		"gameName": "Duck Life: Treasure Hunt",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/dune/index.html",
+		"gameName": "Dune",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?escapingtheprison",
+		"gameName": "Escaping the Prison",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/flappybird/index.html",
+		"gameName": "Flappy Bird",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?fleeingthecomplex",
+		"gameName": "Fleeing the Complex",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fnaf1/index.html",
+		"gameName": "FNAF 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fnaf2/index.html",
+		"gameName": "FNAF 2",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/fnaf4/index.html",
+		"gameName": "FNAF 4",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fnafucn/index.html",
+		"gameName": "FNAF: UCN",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/fnafworld/index.html",
+		"gameName": "FNAF World",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fridaynightfunkin/index.html",
+		"gameName": "Friday Night Funkin'",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/fruitninja/index.html",
+		"gameName": "Fruit Ninja",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/googledino/index.html",
+		"gameName": "Google Dino",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/gorillatag/index.html",
+		"gameName": "Gorilla Tag",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/grandtheftautoadvance/index.html",
+		"gameName": "Grand Theft Auto: Advance",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?happywheels",
+		"gameName": "Happy Wheels",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/hextris/index.html",
+		"gameName": "Hextris",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/hollowknight/index.html",
+		"gameName": "Hollow Knight",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?infiltratingtheairship",
+		"gameName": "Infiltrating the Airship",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/infinitemariobros/main.html",
+		"gameName": "Infinite Mario Bros",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?interactivebuddy",
+		"gameName": "Interactive Buddy",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ironlung/index.html",
+		"gameName": "Iron Lung",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/jetpackjoyride/index.html",
+		"gameName": "Jetpack Joyride",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?learntofly1",
+		"gameName": "Learn to Fly 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?learntofly2",
+		"gameName": "Learn to Fly 2",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/littlealchemy/index.html",
+		"gameName": "Little Alchemy",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/madalinstuntcars2/index.html",
+		"gameName": "Madalin Stunt Cars 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/madalinstuntcars3/index.html",
+		"gameName": "Madalin Stunt Cars 3",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/minecraft/index.html",
+		"gameName": "Minecraft: Classic",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?miniputt",
+		"gameName": "Mini Putt",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/motox3m/index.html",
+		"gameName": "MotoX3M",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/motox3m2/index.html",
+		"gameName": "MotoX3M 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/monsterhighghoulspirit/index.html",
+		"gameName": "Monster High - Ghoul Spirit",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/ngon/index.html",
+		"gameName": "N-Gon",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/nintendogsbestfriends/index.html",
+		"gameName": "Nintendogs: Best Friends",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?pandemic2",
+		"gameName": "Pandemic 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papasbakeria",
+		"gameName": "Papa's Bakeria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papasburgeria",
+		"gameName": "Papa's Burgeria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papascheeseria",
+		"gameName": "Papa's Cheeseria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papasdonuteria",
+		"gameName": "Papa's Donuteria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papasfreezeria",
+		"gameName": "Papa's Freezeria",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?papaspancakeria",
+		"gameName": "Papa's Pancakeria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papaspastaria",
+		"gameName": "Papa's Pastaria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papaspizzeria",
+		"gameName": "Papa's Pizzeria",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?papasscooperia",
+		"gameName": "Papa's Scooperia",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papassushiria",
+		"gameName": "Papa's Sushiria",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?papaswingeria",
+		"gameName": "Papa's Wingeria",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/paperio2/index.html",
+		"gameName": "Paper.io 2",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/paperyplanes/index.html",
+		"gameName": "Papery Planes",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pizzatower/index.html",
+		"gameName": "Pizza Tower",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemoncrystal/index.html",
+		"gameName": "Pokemon: Crystal",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemonemerald/index.html",
+		"gameName": "Pokemon: Emerald",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/pokemonfirered/index.html",
+		"gameName": "Pokemon: Fire Red",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/pokemonleafgreen/index.html",
+		"gameName": "Pokemon: Leaf Green",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemonpearl/index.html",
+		"gameName": "Pokemon: Pearl",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemonruby/index.html",
+		"gameName": "Pokemon: Ruby",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemonsapphire/index.html",
+		"gameName": "Pokemon: Sapphire",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/pokemonsilver/index.html",
+		"gameName": "Pokemon: Silver",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?portalflash",
+		"gameName": "Portal: Flash",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/redball4/index.html",
+		"gameName": "Red Ball 4",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/resentclient/index.html",
+		"gameName": "Resent Client",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/retrobowl/index.html",
+		"gameName": "Retro Bowl",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddleschool1",
+		"gameName": "Riddle School 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddleschool2",
+		"gameName": "Riddle School 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddleschool3",
+		"gameName": "Riddle School 3",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddleschool4",
+		"gameName": "Riddle School 4",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddleschool5",
+		"gameName": "Riddle School 5",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddletransfer1",
+		"gameName": "Riddle Transfer 1",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?riddletransfer2",
+		"gameName": "Riddle Transfer 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/rocketsoccer/index.html",
+		"gameName": "Rocket Soccer",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/rollyvortex/index.html",
+		"gameName": "Rolly Vortex",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?run",
+		"gameName": "Run",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?run2",
+		"gameName": "Run 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?run3",
+		"gameName": "Run 3",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/sandgame/index.html",
+		"gameName": "Sand Game",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/slender/index.html",
+		"gameName": "Slender",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/slimerancher/index.html",
+		"gameName": "Slime Rancher",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/slope/index.html",
+		"gameName": "Slope",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/snake/index.html",
+		"gameName": "Snake",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?solitaire",
+		"gameName": "Solitaire",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?sonicflash",
+		"gameName": "Sonic: Flash",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/stack/index.html",
+		"gameName": "Stack",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?stealingthediamond",
+		"gameName": "Stealing the Diamond",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/stickmanhook/index.html",
+		"gameName": "Stickman Hook",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?stormthehouse2",
+		"gameName": "Storm the House 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/subwaysurferssanfrancisco/index.html",
+		"gameName": "Subway Surfers: San Francisco",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/subwaysurferszurich/index.html",
+		"gameName": "Subway Surfers: Zurich",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/superhot/index.html",
+		"gameName": "Superhot",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/supermario64/index.html",
+		"gameName": "Super Mario 64",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/superscribblenauts/index.html",
+		"gameName": "Super Scribblenauts",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?supersmashflash",
+		"gameName": "Super Smash Flash",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/tanukisunset/index.html",
+		"gameName": "Tanuki Sunset",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/templerun2/index.html",
+		"gameName": "Temple Run 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/territorialio/index.html",
+		"gameName": "Territorial.io",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?tetris",
+		"gameName": "Tetris",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?thebindingofisaac",
+		"gameName": "The Binding of Isaac",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?theimpossiblequiz",
+		"gameName": "The Impossible Quiz",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/thereisnogame/index.html",
+		"gameName": "There Is No Game",
+		"popular": false
+	},
+    {
+		"gameIndex": "games/tomodachicollection/index.html",
+		"gameName": "Tomodachi Collection",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/townscaper/index.html",
+		"gameName": "Townscaper",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/transcube/index.html",
+		"gameName": "Transcube",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/undertale/index.html",
+		"gameName": "UNDERTALE",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/undertaleyellow/index.html",
+		"gameName": "UNDERTALE: Yellow",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/vex4/index.html",
+		"gameName": "Vex 4",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/vex5/index.html",
+		"gameName": "Vex 5",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/vex6/index.html",
+		"gameName": "Vex 6",
+		"popular": false
+	},
+	{
+		"gameIndex": "games/wordle/index.html",
+		"gameName": "Wordle",
+		"popular": true
+	},
+	{
+		"gameIndex": "flash.html?worldshardestgame",
+		"gameName": "World's Hardest Game",
+		"popular": true
+	},
+	{
+		"gameIndex": "games/worldshardestgame2/index.html",
+		"gameName": "World's Hardest Game 2",
+		"popular": false
+	}
+]
