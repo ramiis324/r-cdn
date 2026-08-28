@@ -3,7 +3,7 @@
 		"gameIndex": "games/3dcity/index.html",
 		"gameName": "3D.CITY",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "June 6, 2014",
 			"Credits": "lo-th"
 		}
@@ -12,7 +12,7 @@
 		"gameIndex": "games/2048/index.html",
 		"gameName": "2048",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "March 5, 2014",
 			"Credits": "Gabriele Cirulli"
 		}
@@ -21,7 +21,7 @@
 		"gameIndex": "games/aceattorney/index.html",
 		"gameName": "Ace Attorney",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "October 12, 2001",
 			"Emulator": "Nintendo DS",
 			"Credits": "Capcom"
@@ -31,7 +31,7 @@
 		"gameIndex": "games/adventurecapitalist/index.html",
 		"gameName": "AdVenture Capitalist",
 		"popular": true,
-        "details": {
+		"details": {
 			"Release Date": "May 30, 2014",
 			"Credits": "Hyper Hippo"
 		}
@@ -40,7 +40,7 @@
 		"gameIndex": "games/animalcrossingwildworld/index.html",
 		"gameName": "Animal Crossing: Wild World",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "November 23, 2005",
 			"Emulator": "Nintendo DS",
 			"Credits": "Nintendo"
@@ -50,7 +50,7 @@
 		"gameIndex": "flash.html?animatorvsanimation",
 		"gameName": "Animator Vs Animation",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "June 3, 2006",
 			"Emulator": "Flash",
 			"Credits": "Alan Becker"
@@ -60,7 +60,7 @@
 		"gameIndex": "games/backrooms/index.html",
 		"gameName": "Backrooms",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "June 1, 2019",
 			"Credits": "IEP Games"
 		}
@@ -69,7 +69,7 @@
 		"gameIndex": "games/badtimesimulator/index.html",
 		"gameName": "Bad Time Simulator",
 		"popular": true,
-        "details": {
+		"details": {
 			"Release Date": "August 18, 2021",
 			"Credits": "jcw87"
 		}
@@ -78,7 +78,7 @@
 		"gameIndex": "games/balatro/index.html",
 		"gameName": "Balatro",
 		"popular": true,
-        "details": {
+		"details": {
 			"Release Date": "February 20, 2024",
 			"Credits": "LocalThunk"
 		}
@@ -87,7 +87,7 @@
 		"gameIndex": "games/basketballstars/index.html",
 		"gameName": "Basketball Stars",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "March 16, 2016",
 			"Credits": "Miniclip"
 		}
@@ -96,7 +96,7 @@
 		"gameIndex": "games/beeswarmsimulator/index.html",
 		"gameName": "Bee Swarm Simulator",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "March 21, 2018",
 			"Credits": "Onett",
 			"Port": "Dddatt"
@@ -106,7 +106,7 @@
 		"gameIndex": "games/bergentruck201x/index.html",
 		"gameName": "BERGENTRUCK 201X",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "July 21, 2015",
 			"Credits": "Paledoptera"
 		}
@@ -115,7 +115,7 @@
 		"gameIndex": "games/bitlife/index.html",
 		"gameName": "BitLife",
 		"popular": true,
-        "details": {
+		"details": {
 			"Release Date": "September 29, 2018",
 			"Credits": "CandyWriter"
 		}
@@ -124,7 +124,7 @@
 		"gameIndex": "games/blockblast/index.html",
 		"gameName": "Block Blast",
 		"popular": true,
-        "details": {
+		"details": {
 			"Release Date": "September 23, 2022",
 			"Credits": "Hungry Studio"
 		}
@@ -133,7 +133,7 @@
 		"gameIndex": "flash.html?bloonstd1",
 		"gameName": "Bloons TD 1",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "August 16, 2001",
 			"Emulator": "Flash",
 			"Credits": "NinjaKiwi"
@@ -143,7 +143,7 @@
 		"gameIndex": "flash.html?bloonstd2",
 		"gameName": "Bloons TD 2",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "November 30, 2021",
 			"Emulator": "Flash",
 			"Credits": "NinjaKiwi"
@@ -153,7 +153,7 @@
 		"gameIndex": "flash.html?bloonstd3",
 		"gameName": "Bloons TD 3",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "September 2, 2008",
 			"Emulator": "Flash",
 			"Credits": "NinjaKiwi"
@@ -163,7 +163,7 @@
 		"gameIndex": "flash.html?bloonstd5",
 		"gameName": "Bloons TD 5",
 		"popular": false,
-        "details": {
+		"details": {
 			"Release Date": "December 13, 2011",
 			"Emulator": "Flash",
 			"Credits": "NinjaKiwi"
@@ -216,7 +216,7 @@
 			"Credits": "SBN3"
 		}
 	},
-    {
+	{
 		"gameIndex": "games/classof09thereup/index.html",
 		"gameName": "Class of '09: The Re-Up",
 		"popular": false,
@@ -499,22 +499,26 @@
 	{
 		"gameIndex": "games/minecraft/index.html",
 		"gameName": "Minecraft: Classic",
-		"popular": false
+		"popular": false,
+		"image": "projects/minecraft-classic/pack.png"
 	},
 	{
 		"gameIndex": "flash.html?miniputt",
 		"gameName": "Mini Putt",
-		"popular": false
+		"popular": false,
+		"image": "projects/miniputt/miniputt.png"
 	},
 	{
 		"gameIndex": "games/motox3m/index.html",
 		"gameName": "MotoX3M",
-		"popular": true
+		"popular": true,
+		"image": "projects/motox3m/splash.jpg"
 	},
 	{
 		"gameIndex": "games/motox3m2/index.html",
 		"gameName": "MotoX3M 2",
-		"popular": false
+		"popular": false,
+		"image": "projects/motox3m2/assets/atlases/x1/cars_game.png"
 	},
 	{
 		"gameIndex": "games/monsterhighghoulspirit/index.html",
@@ -524,7 +528,8 @@
 	{
 		"gameIndex": "games/ngon/index.html",
 		"gameName": "N-Gon",
-		"popular": false
+		"popular": false,
+		"image": "projects/n-gon/bot.png"
 	},
 	{
 		"gameIndex": "games/nintendogsbestfriends/index.html",
@@ -534,7 +539,8 @@
 	{
 		"gameIndex": "flash.html?pandemic2",
 		"gameName": "Pandemic 2",
-		"popular": false
+		"popular": false,
+		"image": "projects/pandemic2/pandemic2.png"
 	},
 	{
 		"gameIndex": "flash.html?papasbakeria",
@@ -544,7 +550,8 @@
 	{
 		"gameIndex": "flash.html?papasburgeria",
 		"gameName": "Papa's Burgeria",
-		"popular": false
+		"popular": false,
+		"image": "projects/papasburgeria/splash.jpg"
 	},
 	{
 		"gameIndex": "flash.html?papascheeseria",
@@ -594,12 +601,14 @@
 	{
 		"gameIndex": "games/paperio2/index.html",
 		"gameName": "Paper.io 2",
-		"popular": true
+		"popular": true,
+		"image": "projects/paperio2/images/icon512.png"
 	},
 	{
 		"gameIndex": "games/paperyplanes/index.html",
 		"gameName": "Papery Planes",
-		"popular": false
+		"popular": false,
+		"image": "projects/papery-planes/splash.jpg"
 	},
 	{
 		"gameIndex": "games/pizzatower/index.html",
@@ -649,7 +658,8 @@
 	{
 		"gameIndex": "flash.html?portalflash",
 		"gameName": "Portal: Flash",
-		"popular": false
+		"popular": false,
+		"image": "projects/portalflash/portaltheflashversion.jpg"
 	},
 	{
 		"gameIndex": "games/redball4/index.html",
@@ -664,32 +674,38 @@
 	{
 		"gameIndex": "games/retrobowl/index.html",
 		"gameName": "Retro Bowl",
-		"popular": false
+		"popular": false,
+		"image": "projects/retro-bowl/img/icon.jpg"
 	},
 	{
 		"gameIndex": "flash.html?riddleschool1",
 		"gameName": "Riddle School 1",
-		"popular": false
+		"popular": false,
+		"image": "projects/riddleschool/riddleschool.png"
 	},
 	{
 		"gameIndex": "flash.html?riddleschool2",
 		"gameName": "Riddle School 2",
-		"popular": false
+		"popular": false,
+		"image": "projects/riddleschool2/riddleschool2.png"
 	},
 	{
 		"gameIndex": "flash.html?riddleschool3",
 		"gameName": "Riddle School 3",
-		"popular": false
+		"popular": false,
+		"image": "projects/riddleschool3/riddleschool3.png"
 	},
 	{
 		"gameIndex": "flash.html?riddleschool4",
 		"gameName": "Riddle School 4",
-		"popular": false
+		"popular": false,
+		"image": "projects/riddleschool4/riddleschool4.png"
 	},
 	{
 		"gameIndex": "flash.html?riddleschool5",
 		"gameName": "Riddle School 5",
-		"popular": false
+		"popular": false,
+		"image": "projects/riddleschool5/riddleschool5.png"
 	},
 	{
 		"gameIndex": "flash.html?riddletransfer1",
@@ -709,7 +725,8 @@
 	{
 		"gameIndex": "games/rollyvortex/index.html",
 		"gameName": "Rolly Vortex",
-		"popular": false
+		"popular": false,
+		"image": "projects/rolly-vortex/icon-256.png"
 	},
 	{
 		"gameIndex": "flash.html?run",
@@ -744,7 +761,8 @@
 	{
 		"gameIndex": "games/slope/index.html",
 		"gameName": "Slope",
-		"popular": true
+		"popular": true,
+		"image": "projects/slope/slope4.jpeg"
 	},
 	{
 		"gameIndex": "games/snake/index.html",
@@ -764,22 +782,26 @@
 	{
 		"gameIndex": "games/stack/index.html",
 		"gameName": "Stack",
-		"popular": false
+		"popular": false,
+		"image": "projects/stack/stack.png"
 	},
 	{
 		"gameIndex": "flash.html?stealingthediamond",
 		"gameName": "Stealing the Diamond",
-		"popular": false
+		"popular": false,
+		"image": "projects/stealingthediamond/stealingthediamond.jpg"
 	},
 	{
 		"gameIndex": "games/stickmanhook/index.html",
 		"gameName": "Stickman Hook",
-		"popular": true
+		"popular": true,
+		"image": "projects/stickman-hook/unnamed.jpg"
 	},
 	{
 		"gameIndex": "flash.html?stormthehouse2",
 		"gameName": "Storm the House 2",
-		"popular": false
+		"popular": false,
+		"image": "projects/stormthehouse2/stormthehouse2.jpg"
 	},
 	{
 		"gameIndex": "games/subwaysurferssanfrancisco/index.html",
@@ -794,12 +816,14 @@
 	{
 		"gameIndex": "games/superhot/index.html",
 		"gameName": "Superhot",
-		"popular": false
+		"popular": false,
+		"image": "projects/superhot/hot.jpg"
 	},
 	{
 		"gameIndex": "games/supermario64/index.html",
 		"gameName": "Super Mario 64",
-		"popular": false
+		"popular": false,
+		"image": "projects/sm64/logo.png"
 	},
 	{
 		"gameIndex": "games/superscribblenauts/index.html",
@@ -814,12 +838,14 @@
 	{
 		"gameIndex": "games/tanukisunset/index.html",
 		"gameName": "Tanuki Sunset",
-		"popular": false
+		"popular": false,
+		"image": "projects/tanuki-sunset/img/cover.png"
 	},
 	{
 		"gameIndex": "games/templerun2/index.html",
 		"gameName": "Temple Run 2",
-		"popular": false
+		"popular": false,
+		"image": "projects/temple-run-2/img/og-icon.png"
 	},
 	{
 		"gameIndex": "games/territorialio/index.html",
@@ -844,9 +870,10 @@
 	{
 		"gameIndex": "games/thereisnogame/index.html",
 		"gameName": "There Is No Game",
-		"popular": false
+		"popular": false,
+		"image": "projects/there-is-no-game/logo.png"
 	},
-    {
+	{
 		"gameIndex": "games/tomodachicollection/index.html",
 		"gameName": "Tomodachi Collection",
 		"popular": false
@@ -854,7 +881,8 @@
 	{
 		"gameIndex": "games/townscaper/index.html",
 		"gameName": "Townscaper",
-		"popular": false
+		"popular": false,
+		"image": "projects/townscaper/img/cover.jpg"
 	},
 	{
 		"gameIndex": "games/transcube/index.html",
@@ -874,22 +902,26 @@
 	{
 		"gameIndex": "games/vex4/index.html",
 		"gameName": "Vex 4",
-		"popular": false
+		"popular": false,
+		"image": "projects/vex4/vex4.png"
 	},
 	{
 		"gameIndex": "games/vex5/index.html",
 		"gameName": "Vex 5",
-		"popular": false
+		"popular": false,
+		"image": "projects/vex5/vex.jpeg"
 	},
 	{
 		"gameIndex": "games/vex6/index.html",
 		"gameName": "Vex 6",
-		"popular": false
+		"popular": false,
+		"image": "projects/vex6/assets/icon.jpeg"
 	},
 	{
 		"gameIndex": "games/wordle/index.html",
 		"gameName": "Wordle",
-		"popular": true
+		"popular": true,
+		"image": "projects/wordle/img/logo_192x192.png"
 	},
 	{
 		"gameIndex": "flash.html?worldshardestgame",
@@ -900,5 +932,740 @@
 		"gameIndex": "games/worldshardestgame2/index.html",
 		"gameName": "World's Hardest Game 2",
 		"popular": false
+	},
+	{
+		"gameIndex": "projects/meme2048/game.html",
+		"gameName": "Meme 2048",
+		"popular": false,
+		"image": "projects/meme2048/img/rickroll.gif"
+	},
+	{
+		"gameIndex": "projects/merge-round-racers/game.html",
+		"gameName": "Merge Round Racers",
+		"popular": false,
+		"image": "projects/merge-round-racers/splash.png"
+	},
+	{
+		"gameIndex": "projects/mineblocks/game.html",
+		"gameName": "Mine Blocks",
+		"popular": false,
+		"image": "projects/mineblocks/splash.png"
+	},
+	{
+		"gameIndex": "projects/minecraft-15/game.html",
+		"gameName": "Minecraft 1.5",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/minecraft-18/game.html",
+		"gameName": "Minecraft 1.8",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/minecraftbeta/game.html",
+		"gameName": "Minecraft Classic Hacks",
+		"popular": false,
+		"image": "projects/minecraftbeta/bg_main.png"
+	},
+	{
+		"gameIndex": "projects/minecraft-case/game.html",
+		"gameName": "Minecraft Case Simulator",
+		"popular": false,
+		"image": "projects/minecraft-case/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/minesweeper/game.html",
+		"gameName": "Minesweeper",
+		"popular": false,
+		"image": "projects/minesweeper/img/minesweeper.png"
+	},
+	{
+		"gameIndex": "projects/missiles/game.html",
+		"gameName": "Missiles",
+		"popular": false,
+		"image": "projects/missiles/miss.png"
+	},
+	{
+		"gameIndex": "projects/money-movers/game.html",
+		"gameName": "Money Movers",
+		"popular": false,
+		"image": "projects/money-movers/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/money-movers-2/game.html",
+		"gameName": "Money Movers 2",
+		"popular": false,
+		"image": "projects/money-movers-2/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/money-movers-3/game.html",
+		"gameName": "Money Movers 3",
+		"popular": false,
+		"image": "projects/money-movers-3/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/monkey-mart/game.html",
+		"gameName": "Monkey Mart",
+		"popular": false,
+		"image": "projects/monkey-mart/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/motox3m-pool/game.html",
+		"gameName": "Moto X3M Pool",
+		"popular": false,
+		"image": "projects/motox3m-pool/splash.jpg"
+	},
+	{
+		"gameIndex": "projects/motox3m-spooky/game.html",
+		"gameName": "Moto X3M Spooky",
+		"popular": false,
+		"image": "projects/motox3m-spooky/splash.jpeg"
+	},
+	{
+		"gameIndex": "projects/motox3m-winter/game.html",
+		"gameName": "Moto X3M Winter",
+		"popular": false,
+		"image": "projects/motox3m-winter/download.jpeg"
+	},
+	{
+		"gameIndex": "projects/moving-truck/game.html",
+		"gameName": "Moving Truck",
+		"popular": false,
+		"image": "projects/moving-truck/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/mr-bullet/game.html",
+		"gameName": "Mr Bullet",
+		"popular": false,
+		"image": "projects/mr-bullet/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/mutazone/game.html",
+		"gameName": "Mutazone",
+		"popular": false,
+		"image": "projects/mutazone/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/my-rusty-submarine/game.html",
+		"gameName": "My Rusty Submarine",
+		"popular": false,
+		"image": "projects/my-rusty-submarine/splash.png"
+	},
+	{
+		"gameIndex": "projects/ninja/game.html",
+		"gameName": "Ninja",
+		"popular": false,
+		"image": "projects/ninja/logo1.png"
+	},
+	{
+		"gameIndex": "projects/ninja-cat/game.html",
+		"gameName": "Ninja Cat",
+		"popular": false,
+		"image": "projects/ninja-cat/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/ninjavsevilcorp/game.html",
+		"gameName": "Ninja vs Evil Corp",
+		"popular": false,
+		"image": "projects/ninjavsevilcorp/splash.png"
+	},
+	{
+		"gameIndex": "projects/ns-shaft/game.html",
+		"gameName": "NS-Shaft",
+		"popular": false,
+		"image": "projects/ns-shaft/favicon.png"
+	},
+	{
+		"gameIndex": "projects/nut-simulator/game.html",
+		"gameName": "Nut Simulator",
+		"popular": false,
+		"image": "projects/nut-simulator/NutSimulator.png"
+	},
+	{
+		"gameIndex": "projects/OfflineParadise/game.html",
+		"gameName": "Offline Paradise",
+		"popular": false,
+		"image": "projects/OfflineParadise/assets/icon.jpeg"
+	},
+	{
+		"gameIndex": "projects/om-bounce/game.html",
+		"gameName": "Om Nom Bounce",
+		"popular": false,
+		"image": "projects/om-bounce/assets/icon.jpeg"
+	},
+	{
+		"gameIndex": "projects/ovo/game.html",
+		"gameName": "OvO",
+		"popular": false,
+		"image": "projects/ovo/ovo.png"
+	},
+	{
+		"gameIndex": "projects/ovo-2/game.html",
+		"gameName": "OvO 2",
+		"popular": false,
+		"image": "projects/ovo-2/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/ovo-dimensions/game.html",
+		"gameName": "OvO Dimensions",
+		"popular": false,
+		"image": "projects/ovo-dimensions/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/pacman/game.html",
+		"gameName": "Pacman",
+		"popular": false,
+		"image": "projects/pacman/logo.png"
+	},
+	{
+		"gameIndex": "projects/pandas-japan/game.html",
+		"gameName": "3 Pandas in Japan",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/papa-cherry-saga/game.html",
+		"gameName": "Papa Cherry Saga",
+		"popular": false,
+		"image": "projects/papa-cherry-saga/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/paper-3/game.html",
+		"gameName": "Paper.io 3",
+		"popular": false,
+		"image": "projects/paper-3/PaperIo3.png"
+	},
+	{
+		"gameIndex": "projects/paper-minecraft/game.html",
+		"gameName": "Paper Minecraft",
+		"popular": false,
+		"image": "projects/paper-minecraft/PaperMinecraft.png"
+	},
+	{
+		"gameIndex": "projects/parking-fury/game.html",
+		"gameName": "Parking Fury",
+		"popular": false,
+		"image": "projects/parking-fury/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/parking-fury-2/game.html",
+		"gameName": "Parking Fury 2",
+		"popular": false,
+		"image": "projects/parking-fury-2/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/particle-clicker/game.html",
+		"gameName": "Particle Clicker",
+		"popular": false,
+		"image": "projects/particle-clicker/assets/mobile/original.png"
+	},
+	{
+		"gameIndex": "projects/pcraft/game.html",
+		"gameName": "P.Craft",
+		"popular": false,
+		"image": "projects/pcraft/PCraft.png"
+	},
+	{
+		"gameIndex": "projects/penalty-shooter-2/game.html",
+		"gameName": "Penalty Shooters 2",
+		"popular": false,
+		"image": "projects/penalty-shooter-2/icon-256.png"
+	},
+	{
+		"gameIndex": "projects/pixel-gun-survival/game.html",
+		"gameName": "Pixel Gun Survival",
+		"popular": false,
+		"image": "projects/pixel-gun-survival/512x512.png"
+	},
+	{
+		"gameIndex": "projects/plants-vs-zombies/game.html",
+		"gameName": "Plants vs Zombies",
+		"popular": false,
+		"image": "projects/plants-vs-zombies/PlantsVsZombies.png"
+	},
+	{
+		"gameIndex": "projects/polybranch/game.html",
+		"gameName": "PolyBranch",
+		"popular": false,
+		"image": "projects/polybranch/img/pic1.png"
+	},
+	{
+		"gameIndex": "projects/popcat-classic/game.html",
+		"gameName": "POPCAT CLASSIC",
+		"popular": false,
+		"image": "projects/popcat-classic/splash.png"
+	},
+	{
+		"gameIndex": "projects/protektor/game.html",
+		"gameName": "Protektor",
+		"popular": false,
+		"image": "projects/protektor/splash.jpg"
+	},
+	{
+		"gameIndex": "projects/push-the-square/game.html",
+		"gameName": "Push The Square",
+		"popular": false,
+		"image": "projects/push-the-square/img/splash.png"
+	},
+	{
+		"gameIndex": "projects/push-your-luck/game.html",
+		"gameName": "Push Your Luck",
+		"popular": false,
+		"image": "projects/push-your-luck/assets/img/push.png"
+	},
+	{
+		"gameIndex": "projects/rabbit-samurai/game.html",
+		"gameName": "Rabbit Samurai",
+		"popular": false,
+		"image": "projects/rabbit-samurai/splash.png"
+	},
+	{
+		"gameIndex": "projects/rabbit-samurai2/game.html",
+		"gameName": "Rabbit Samurai 2",
+		"popular": false,
+		"image": "projects/rabbit-samurai2/splash.png"
+	},
+	{
+		"gameIndex": "projects/retro-bowl-college/game.html",
+		"gameName": "Retro Bowl College",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/rise-higher/game.html",
+		"gameName": "Rise Higher",
+		"popular": false,
+		"image": "projects/rise-higher/RiseHigher.png"
+	},
+	{
+		"gameIndex": "projects/rolling-forests/game.html",
+		"gameName": "Rolling Forests",
+		"popular": false,
+		"image": "projects/rolling-forests/icon.png"
+	},
+	{
+		"gameIndex": "projects/rooftop-snipers/game.html",
+		"gameName": "Rooftop Snipers",
+		"popular": false,
+		"image": "projects/rooftop-snipers/img/thumb.png"
+	},
+	{
+		"gameIndex": "projects/roper/game.html",
+		"gameName": "Roper",
+		"popular": false,
+		"image": "projects/roper/webapp/cover.jpg"
+	},
+	{
+		"gameIndex": "projects/sandboxels/game.html",
+		"gameName": "Sandboxels",
+		"popular": false,
+		"image": "projects/sandboxels/sandboxels.jpg"
+	},
+	{
+		"gameIndex": "projects/santy-is-home/game.html",
+		"gameName": "Santy is Home",
+		"popular": false,
+		"image": "projects/santy-is-home/splash.png"
+	},
+	{
+		"gameIndex": "projects/scrapmetal/game.html",
+		"gameName": "Scrap Metal 3",
+		"popular": false,
+		"image": "projects/scrapmetal/img/splash.png"
+	},
+	{
+		"gameIndex": "projects/shuttledeck/game.html",
+		"gameName": "SHUTTLEDECK",
+		"popular": false,
+		"image": "projects/shuttledeck/splash.png"
+	},
+	{
+		"gameIndex": "projects/skibidi-strike/game.html",
+		"gameName": "Skibidi Strike",
+		"popular": false,
+		"image": "projects/skibidi-strike/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/sky-car-stunt/game.html",
+		"gameName": "Sky Car Stunt",
+		"popular": false,
+		"image": "projects/sky-car-stunt/512x512.jpg"
+	},
+	{
+		"gameIndex": "projects/sleepingbeauty/game.html",
+		"gameName": "Sleeping Beauty",
+		"popular": false,
+		"image": "projects/sleepingbeauty/splash.png"
+	},
+	{
+		"gameIndex": "projects/slime-rush-td/game.html",
+		"gameName": "Slime Rush TD",
+		"popular": false,
+		"image": "projects/slime-rush-td/splash.png"
+	},
+	{
+		"gameIndex": "projects/slope-2/game.html",
+		"gameName": "Slope 2",
+		"popular": false,
+		"image": "projects/slope-2/slope-2-logo.png"
+	},
+	{
+		"gameIndex": "projects/slope-ball/game.html",
+		"gameName": "Slope Ball",
+		"popular": false,
+		"image": "projects/slope-ball/splash.png"
+	},
+	{
+		"gameIndex": "projects/smashkarts/game.html",
+		"gameName": "Smash Carts",
+		"popular": false,
+		"image": "projects/smashkarts/images/icon-512.png"
+	},
+	{
+		"gameIndex": "projects/snowbattle/game.html",
+		"gameName": "Snowbattle",
+		"popular": false,
+		"image": "projects/snowbattle/img/logo.png"
+	},
+	{
+		"gameIndex": "projects/snow-ride/game.html",
+		"gameName": "Snow Rider 3D",
+		"popular": false,
+		"image": "projects/snow-ride/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/soccer-random/game.html",
+		"gameName": "Soccer Random",
+		"popular": false,
+		"image": "projects/soccer-random/unnamed.png"
+	},
+	{
+		"gameIndex": "projects/soccer-skills/game.html",
+		"gameName": "Soccer Skills Euro Cup",
+		"popular": false,
+		"image": "projects/soccer-skills/splash.png"
+	},
+	{
+		"gameIndex": "projects/soldier-legend/game.html",
+		"gameName": "Soldier Legend",
+		"popular": false,
+		"image": "projects/soldier-legend/images/splash.jpeg"
+	},
+	{
+		"gameIndex": "projects/sort-the-court/game.html",
+		"gameName": "Sort The Court",
+		"popular": false,
+		"image": "projects/sort-the-court/img/splash.png"
+	},
+	{
+		"gameIndex": "projects/space-company/game.html",
+		"gameName": "Space Company",
+		"popular": false,
+		"image": "projects/space-company/Icons/SpaceCompanyFavicon.png"
+	},
+	{
+		"gameIndex": "projects/spacegarden/game.html",
+		"gameName": "Space Garden",
+		"popular": false,
+		"image": "projects/spacegarden/spl.png"
+	},
+	{
+		"gameIndex": "projects/stack-bump-3d/game.html",
+		"gameName": "Stack Bump 3D",
+		"popular": false,
+		"image": "projects/stack-bump-3d/thumbnail.jpg"
+	},
+	{
+		"gameIndex": "projects/station-141/game.html",
+		"gameName": "Station 141",
+		"popular": false,
+		"image": "projects/station-141/75wxYs.png"
+	},
+	{
+		"gameIndex": "projects/stick-archers/game.html",
+		"gameName": "Stick Archers",
+		"popular": false,
+		"image": "projects/stick-archers/splash.jpg"
+	},
+	{
+		"gameIndex": "projects/stick-duel-battle/game.html",
+		"gameName": "Stick Duel Battle",
+		"popular": false,
+		"image": "projects/stick-duel-battle/512x512.jpg"
+	},
+	{
+		"gameIndex": "projects/stickman-boost/game.html",
+		"gameName": "Stickman Boost",
+		"popular": false,
+		"image": "projects/stickman-boost/base/img1.jpg"
+	},
+	{
+		"gameIndex": "projects/stickman-golf/game.html",
+		"gameName": "Stickman Golf",
+		"popular": false,
+		"image": "projects/stickman-golf/splash.png"
+	},
+	{
+		"gameIndex": "projects/stick-merge/game.html",
+		"gameName": "Stick Merge",
+		"popular": false,
+		"image": "projects/stick-merge/splash.png"
+	},
+	{
+		"gameIndex": "projects/subway-surfers/game.html",
+		"gameName": "Subway Surfers",
+		"popular": false,
+		"image": "projects/subway-surfers/img/splash.jpg"
+	},
+	{
+		"gameIndex": "projects/subway-surfers-ny/game.html",
+		"gameName": "Subway Surfers New York",
+		"popular": false,
+		"image": "projects/subway-surfers-ny/NewYorkIcon.png"
+	},
+	{
+		"gameIndex": "projects/supermarioconstruct/game.html",
+		"gameName": "Super Mario Construct",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/swerve/game.html",
+		"gameName": "Swerve",
+		"popular": false,
+		"image": "projects/swerve/img/favicon.jpg"
+	},
+	{
+		"gameIndex": "projects/synesthesia/game.html",
+		"gameName": "Synesthesia",
+		"popular": false,
+		"image": "projects/synesthesia/index.splash.png"
+	},
+	{
+		"gameIndex": "projects/tactical-weapon-pack-2/game.html",
+		"gameName": "Tactical Weapon Pack 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/tag/game.html",
+		"gameName": "Tag",
+		"popular": false,
+		"image": "projects/tag/logo.jpg"
+	},
+	{
+		"gameIndex": "projects/tank-trouble-2/game.html",
+		"gameName": "Tank Trouble 2",
+		"popular": false,
+		"image": "projects/tank-trouble-2/tank.jpeg"
+	},
+	{
+		"gameIndex": "projects/terraira/game.html",
+		"gameName": "Terraira",
+		"popular": false,
+		"image": "projects/terraira/Terraira.png"
+	},
+	{
+		"gameIndex": "projects/territorial/game.html",
+		"gameName": "Territorial",
+		"popular": false,
+		"image": "projects/territorial/Territorial.png"
+	},
+	{
+		"gameIndex": "projects/the-final-earth/game.html",
+		"gameName": "The Final Earth",
+		"popular": false,
+		"image": "projects/the-final-earth/images.png"
+	},
+	{
+		"gameIndex": "projects/the-hotel/game.html",
+		"gameName": "The Hotel",
+		"popular": false,
+		"image": "projects/the-hotel/splash.png"
+	},
+	{
+		"gameIndex": "projects/tiny-fishing/game.html",
+		"gameName": "Tiny Fishing",
+		"popular": false,
+		"image": "projects/tiny-fishing/thumb.png"
+	},
+	{
+		"gameIndex": "projects/tiny-islands/game.html",
+		"gameName": "Tiny Islands",
+		"popular": false,
+		"image": "projects/tiny-islands/splash.png"
+	},
+	{
+		"gameIndex": "projects/trimps/game.html",
+		"gameName": "Trimps",
+		"popular": false,
+		"image": "projects/trimps/Trimps.png"
+	},
+	{
+		"gameIndex": "projects/tube-jumpers/game.html",
+		"gameName": "Tube Jumpers",
+		"popular": false,
+		"image": "projects/tube-jumpers/img/shark.jpg"
+	},
+	{
+		"gameIndex": "projects/tunnel-rush/game.html",
+		"gameName": "Tunnel Rush",
+		"popular": false,
+		"image": "projects/tunnel-rush/img/tunnel.jpg"
+	},
+	{
+		"gameIndex": "projects/twitch-tetris/game.html",
+		"gameName": "Twitch Tetris",
+		"popular": false,
+		"image": "projects/twitch-tetris/logo.png"
+	},
+	{
+		"gameIndex": "projects/veloce/game.html",
+		"gameName": "VELOCE",
+		"popular": false,
+		"image": "projects/veloce/qN6zkD.png"
+	},
+	{
+		"gameIndex": "projects/vex3/game.html",
+		"gameName": "Vex 3",
+		"popular": false,
+		"image": "projects/vex3/vex3.png"
+	},
+	{
+		"gameIndex": "projects/vex7/game.html",
+		"gameName": "Vex 7",
+		"popular": false,
+		"image": "projects/vex7/assets/icon.jpeg"
+	},
+	{
+		"gameIndex": "projects/vex8/game.html",
+		"gameName": "Vex 8",
+		"popular": false,
+		"image": "projects/vex8/assets/icon.png"
+	},
+	{
+		"gameIndex": "projects/volley-random/game.html",
+		"gameName": "Volley Random",
+		"popular": false,
+		"image": "projects/volley-random/splash.png"
+	},
+	{
+		"gameIndex": "projects/wallsmash/game.html",
+		"gameName": "Wall Smash",
+		"popular": false,
+		"image": "projects/wallsmash/thumb.png"
+	},
+	{
+		"gameIndex": "projects/waterworks/game.html",
+		"gameName": "Waterworks!",
+		"popular": false,
+		"image": "projects/waterworks/square.png"
+	},
+	{
+		"gameIndex": "projects/wbwwb/game.html",
+		"gameName": "We Become What We Behold",
+		"popular": false,
+		"image": "projects/wbwwb/WeBecomeWhatWeBehold.png"
+	},
+	{
+		"gameIndex": "projects/weavesilk/game.html",
+		"gameName": "Weave Silk",
+		"popular": false,
+		"image": "projects/weavesilk/thumb.png"
+	},
+	{
+		"gameIndex": "projects/webgl-fluid-simulation/game.html",
+		"gameName": "WebGL Fluid Sim",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/wolf3d/game.html",
+		"gameName": "Wolfenstein 3D",
+		"popular": false,
+		"image": "projects/wolf3d/art/wolf3d.png"
+	},
+	{
+		"gameIndex": "projects/x-trial-racing/game.html",
+		"gameName": "X Trial Racing",
+		"popular": false,
+		"image": "projects/x-trial-racing/splash.png"
+	},
+	{
+		"gameIndex": "projects/xx142-b2exe/game.html",
+		"gameName": "xx142-b2exe",
+		"popular": false,
+		"image": "projects/xx142-b2exe/splash.png"
+	},
+	{
+		"gameIndex": "projects/yoshifabrication/game.html",
+		"gameName": "Yoshi's Fabrication Lab",
+		"popular": false
+	},
+	{
+		"gameIndex": "projects/you-are-bezos/game.html",
+		"gameName": "You Are Jeff Bezos",
+		"popular": false,
+		"image": "projects/you-are-bezos/img/banner.png"
+	},
+	{
+		"gameIndex": "projects/big-shot-boxing/game.html",
+		"gameName": "Big Shot Boxing",
+		"popular": false,
+		"image": "projects/big-shot-boxing/favicon.png"
+	},
+	{
+		"gameIndex": "flash.html?electricman",
+		"gameName": "Electric Man",
+		"popular": false,
+		"image": "projects/electric-man/logo.jpg"
+	},
+	{
+		"gameIndex": "flash.html?marvinspectrum",
+		"gameName": "Marvin Spectrum",
+		"popular": false,
+		"image": "projects/marvinspectrum/marvinspectrum.png"
+	},
+	{
+		"gameIndex": "flash.html?matrixrampage",
+		"gameName": "Matrix Rampage",
+		"popular": false,
+		"image": "projects/matrixrampage/matrixrampage.jpg"
+	},
+	{
+		"gameIndex": "flash.html?smokingbarrels",
+		"gameName": "Smoking Barrels",
+		"popular": false,
+		"image": "projects/smokingbarrels/smokingbarrels.jpg"
+	},
+	{
+		"gameIndex": "flash.html?tacticalassassin2",
+		"gameName": "Tactical Assassin 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "flash.html?thebattle",
+		"gameName": "The Battle",
+		"popular": false,
+		"image": "projects/thebattle/thebattle.png"
+	},
+	{
+		"gameIndex": "flash.html?theheist",
+		"gameName": "The Heist",
+		"popular": false,
+		"image": "projects/theheist/theheist.jpg"
+	},
+	{
+		"gameIndex": "flash.html?thisistheonlylevel",
+		"gameName": "This Is The Only Level",
+		"popular": false,
+		"image": "projects/thisistheonlylevel/thisistheonlylevel.png"
+	},
+	{
+		"gameIndex": "flash.html?tosstheturtle",
+		"gameName": "Toss the Turtle",
+		"popular": false,
+		"image": "projects/tosstheturtle/tosstheturtle.png"
+	},
+	{
+		"gameIndex": "flash.html?stickmanwar",
+		"gameName": "Stickman War",
+		"popular": false,
+		"image": "projects/stickwar/stickwar.jpg"
 	}
 ]
