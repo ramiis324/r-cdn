@@ -1,4 +1,4 @@
-[
+﻿[
 	{
 		"gameIndex": "games/3dcity/index.html",
 		"gameName": "3D.CITY",
@@ -602,6 +602,7 @@
 		"gameIndex": "games/paperio2/index.html",
 		"gameName": "Paper.io 2",
 		"popular": true,
+		"multiplayer": true,
 		"image": "projects/paperio2/images/icon512.png"
 	},
 	{
@@ -850,7 +851,8 @@
 	{
 		"gameIndex": "games/territorialio/index.html",
 		"gameName": "Territorial.io",
-		"popular": false
+		"popular": false,
+		"multiplayer": true
 	},
 	{
 		"gameIndex": "flash.html?tetris",
@@ -1317,6 +1319,7 @@
 		"gameIndex": "projects/smashkarts/game.html",
 		"gameName": "Smash Carts",
 		"popular": false,
+		"multiplayer": true,
 		"image": "projects/smashkarts/images/icon-512.png"
 	},
 	{
@@ -1667,5 +1670,64 @@
 		"gameName": "Stickman War",
 		"popular": false,
 		"image": "projects/stickwar/stickwar.jpg"
+	},
+	{
+		"gameIndex": "games/zombsroyale/index.html",
+		"gameName": "Zombs Royale",
+		"popular": true,
+		"multiplayer": true,
+		"details": {
+			"Credits": "End Game Interactive",
+			"Mode": "Online â€” battle royale with squads & private games"
+		}
+	},
+	{
+		"gameIndex": "games/skribbl/index.html",
+		"gameName": "Skribbl.io",
+		"popular": true,
+		"multiplayer": true,
+		"details": {
+			"Credits": "Tino",
+			"Mode": "Online â€” drawing party game with private rooms"
+		}
+	},
+	{
+		"gameIndex": "games/shellshockers/index.html",
+		"gameName": "Shell Shockers",
+		"popular": true,
+		"multiplayer": true,
+		"details": {
+			"Credits": "Blue Wizard Digital",
+			"Mode": "Online â€” arena shooter"
+		}
+	},
+	{
+		"gameIndex": "games/krunker/index.html",
+		"gameName": "Krunker.io",
+		"popular": false,
+		"multiplayer": true,
+		"details": {
+			"Credits": "Yendis Entertainment",
+			"Mode": "Online â€” browser FPS"
+		}
+	},
+	{
+		"gameIndex": "games/powerline/index.html",
+		"gameName": "Powerline.io",
+		"popular": false,
+		"multiplayer": true,
+		"details": {
+			"Credits": "Vincent Sijben",
+			"Mode": "Online â€” neon snake arena"
+		}
+	},
+	{
+		"gameIndex": "games/hexanaut/index.html",
+		"gameName": "Hexanaut.io",
+		"popular": false,
+		"multiplayer": true,
+		"details": {
+			"Mode": "Online â€” territory control"
+		}
 	}
 ]
