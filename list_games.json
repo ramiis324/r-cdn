@@ -327,6 +327,12 @@
 		"popular": true
 	},
 	{
+		"gameIndex": "defense.html",
+		"gameName": "Defense",
+		"popular": true,
+		"multiplayer": true
+	},
+	{
 		"gameIndex": "games/drawthehill/index.html",
 		"gameName": "Draw the Hill",
 		"popular": false
