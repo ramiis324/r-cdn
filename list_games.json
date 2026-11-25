@@ -58,6 +58,16 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/abalone.html",
+		"gameName": "Abalone",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/abyss-sonar.html",
+		"gameName": "Abyss Sonar",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/aceattorney/index.html",
 		"gameName": "Ace Attorney",
 		"popular": false,
@@ -97,8 +107,33 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/air-hockey.html",
+		"gameName": "Air Hockey",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/air-traffic-control.html",
+		"gameName": "Air Traffic Control",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/alchemy-workshop.html",
+		"gameName": "Alchemy Workshop",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/alquerque.html",
+		"gameName": "Alquerque",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/amazing-rope-police/index.html",
 		"gameName": "Amazing Rope Police",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/amazons.html",
+		"gameName": "Amazons",
 		"popular": false
 	},
 	{
@@ -127,6 +162,16 @@
 		}
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/auction-fever.html",
+		"gameName": "Auction Fever",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/auto-chess-forge.html",
+		"gameName": "Auto Chess Forge",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/avalanche/index.html",
 		"gameName": "Avalanche",
 		"popular": false
@@ -139,6 +184,16 @@
 	{
 		"gameIndex": "selenite/ayun/index.html",
 		"gameName": "Ayuncraft 1.5.2",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/backgammon.html",
+		"gameName": "Backgammon",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/backpack-arena.html",
+		"gameName": "Backpack Arena",
 		"popular": false
 	},
 	{
@@ -185,6 +240,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/baghchal.html",
+		"gameName": "Baghchal",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/balatro/index.html",
 		"gameName": "Balatro",
 		"popular": true,
@@ -196,6 +256,16 @@
 	{
 		"gameIndex": "selenite/baldis-basics/index.html",
 		"gameName": "Baldi's Basics",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/ball-arena.html",
+		"gameName": "Ball Arena",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/basin-control.html",
+		"gameName": "Basin Control",
 		"popular": false
 	},
 	{
@@ -220,6 +290,11 @@
 	{
 		"gameIndex": "selenite/basketball-stars/index.html",
 		"gameName": "Basketball Stars",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/beat-bento.html",
+		"gameName": "Beat Bento",
 		"popular": false
 	},
 	{
@@ -248,6 +323,11 @@
 		"image": "projects/big-shot-boxing/favicon.png"
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/bingo.html",
+		"gameName": "Bingo",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/bit-planes/index.html",
 		"gameName": "Bit Planes",
 		"popular": false
@@ -274,6 +354,11 @@
 			"Release Date": "September 23, 2022",
 			"Credits": "Hungry Studio"
 		}
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/block-forge.html",
+		"gameName": "Block Forge",
+		"popular": false
 	},
 	{
 		"gameIndex": "selenite/bloodtournament/index.html",
@@ -375,6 +460,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/bomb-grid.html",
+		"gameName": "Bomb Grid",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/boxingphysics2/index.html",
 		"gameName": "Boxing Physics 2",
 		"popular": false
@@ -382,6 +472,11 @@
 	{
 		"gameIndex": "selenite/boxingrandom/index.html",
 		"gameName": "Boxing Random",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/branching-tales.html",
+		"gameName": "Branching Tales",
 		"popular": false
 	},
 	{
@@ -393,6 +488,11 @@
 			"Emulator": "Flash",
 			"Credits": "PuffballsUnited"
 		}
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/bridge.html",
+		"gameName": "Bridge",
+		"popular": false
 	},
 	{
 		"gameIndex": "selenite/bubbleshooter/index.html",
@@ -407,6 +507,21 @@
 	{
 		"gameIndex": "selenite/burritobison/index.html",
 		"gameName": "Burrito Bison",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/bytebot-lab.html",
+		"gameName": "Bytebot Lab",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/calcudoku.html",
+		"gameName": "Calcudoku",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/canasta.html",
+		"gameName": "Canasta",
 		"popular": false
 	},
 	{
@@ -429,8 +544,23 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/chalk-billiards.html",
+		"gameName": "Chalk Billiards",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/championisland/index.html",
 		"gameName": "Champion Island",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/charm-reels.html",
+		"gameName": "Charm Reels",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/checkpoint-inspector.html",
+		"gameName": "Checkpoint Inspector",
 		"popular": false
 	},
 	{
@@ -441,6 +571,21 @@
 	{
 		"gameIndex": "selenite/chibiknight/index.html",
 		"gameName": "Chibi Knight",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/chromatic-press.html",
+		"gameName": "Chromatic Press",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/chromatography-lab.html",
+		"gameName": "Chromatography Lab",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/cipher-relay.html",
+		"gameName": "Cipher Relay",
 		"popular": false
 	},
 	{
@@ -467,8 +612,28 @@
 		}
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/claw-carnival.html",
+		"gameName": "Claw Carnival",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/clean-slate.html",
+		"gameName": "Clean Slate",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/clickerheroes/index.html",
 		"gameName": "Clicker Heroes",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/climbing-route.html",
+		"gameName": "Climbing Route",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/clockwork-escape.html",
+		"gameName": "Clockwork Escape",
 		"popular": false
 	},
 	{
@@ -487,8 +652,18 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/comet-weaver.html",
+		"gameName": "Comet Weaver",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/commodoreclicker/index.html",
 		"gameName": "Commodore 64 Clicker",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/connectfour.html",
+		"gameName": "Connect Four",
 		"popular": false
 	},
 	{
@@ -537,8 +712,33 @@
 		}
 	},
 	{
+		"gameIndex": "https://yangjunjun.github.io/CoreBall/",
+		"gameName": "Coreball",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/courier-grid.html",
+		"gameName": "Courier Grid",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/courtroom-clash.html",
+		"gameName": "Courtroom Clash",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/cozy-organizer.html",
+		"gameName": "Cozy Organizer",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/craftmine/index.html",
 		"gameName": "Craftmine",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/crossword-cafe.html",
+		"gameName": "Crossword Cafe",
 		"popular": false
 	},
 	{
@@ -563,6 +763,11 @@
 	{
 		"gameIndex": "selenite/cubefield/index.html",
 		"gameName": "Cubefield",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/curling-endgame.html",
+		"gameName": "Curling Endgame",
 		"popular": false
 	},
 	{
@@ -643,6 +848,11 @@
 		}
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/dice-delver.html",
+		"gameName": "Dice Delver",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/dino/index.html",
 		"gameName": "Dino",
 		"popular": false
@@ -653,6 +863,16 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/dojo-duel.html",
+		"gameName": "Dojo Duel",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/domino.html",
+		"gameName": "Domino",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/doodlejump/index.html",
 		"gameName": "Doodle Jump",
 		"popular": false
@@ -660,6 +880,11 @@
 	{
 		"gameIndex": "selenite/doom/index.html",
 		"gameName": "DOOM",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/dotsandboxes.html",
+		"gameName": "Dots and Boxes",
 		"popular": false
 	},
 	{
@@ -698,8 +923,18 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/drift-racer.html",
+		"gameName": "Drift Racer",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/drivemad/index.html",
 		"gameName": "Drive Mad",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/drone-survey.html",
+		"gameName": "Drone Survey",
 		"popular": false
 	},
 	{
@@ -768,8 +1003,23 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/dungeon-delver.html",
+		"gameName": "Dungeon Delver",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/durak.html",
+		"gameName": "Durak",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/offline-mc/index.html",
 		"gameName": "Eaglercraft 1.5.2",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/ecosystem-keeper.html",
+		"gameName": "Ecosystem Keeper",
 		"popular": false
 	},
 	{
@@ -777,6 +1027,16 @@
 		"gameName": "Electric Man",
 		"popular": false,
 		"image": "projects/electric-man/logo.jpg"
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/elemental-sandbox.html",
+		"gameName": "Elemental Sandbox",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/ember-tactics.html",
+		"gameName": "Ember Tactics",
+		"popular": false
 	},
 	{
 		"gameIndex": "flash.html?escapingtheprison",
@@ -804,6 +1064,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/fanorona.html",
+		"gameName": "Fanorona",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/fireboywatergirl/index.html",
 		"gameName": "Fireboy & Watergirl 1",
 		"popular": false
@@ -821,6 +1086,11 @@
 	{
 		"gameIndex": "selenite/fireboywatergirl4/index.html",
 		"gameName": "Fireboy & Watergirl 4",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/fishing-harbor.html",
+		"gameName": "Fishing Harbor",
 		"popular": false
 	},
 	{
@@ -864,6 +1134,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/fleet-duel.html",
+		"gameName": "Fleet Duel",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/flippyfish/index.html",
 		"gameName": "Flippy Fish",
 		"popular": false
@@ -894,6 +1169,21 @@
 		"popular": true
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/forest-dash.html",
+		"gameName": "Forest Dash",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/foxandgeese.html",
+		"gameName": "Fox and Geese",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/frequency-bureau.html",
+		"gameName": "Frequency Bureau",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/fridaynightfunkin/index.html",
 		"gameName": "Friday Night Funkin",
 		"popular": false
@@ -901,6 +1191,11 @@
 	{
 		"gameIndex": "games/fridaynightfunkin/index.html",
 		"gameName": "Friday Night Funkin'",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/frontier-command.html",
+		"gameName": "Frontier Command",
 		"popular": false
 	},
 	{
@@ -934,13 +1229,33 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/futoshiki.html",
+		"gameName": "Futoshiki",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/gamemaker/index.html",
 		"gameName": "Game Maker Doodle",
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/garden-front.html",
+		"gameName": "Garden Front",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/gba/index.html",
 		"gameName": "GBA Emulator",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/gear-calibrator.html",
+		"gameName": "Gear Calibrator",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/gem-garden.html",
+		"gameName": "Gem Garden",
 		"popular": false
 	},
 	{
@@ -959,8 +1274,23 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/glyph-warden.html",
+		"gameName": "Glyph Warden",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/go.html",
+		"gameName": "Go",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/golddiggerfrvr/index.html",
 		"gameName": "Gold Digger FRVR",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/gomoku.html",
+		"gameName": "Gomoku",
 		"popular": false
 	},
 	{
@@ -1004,6 +1334,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/halma.html",
+		"gameName": "Halma",
+		"popular": false
+	},
+	{
 		"gameIndex": "flash.html?happywheels",
 		"gameName": "Happy Wheels",
 		"popular": false
@@ -1011,6 +1346,11 @@
 	{
 		"gameIndex": "selenite/happywheels/index.html",
 		"gameName": "Happy Wheels",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/hashi.html",
+		"gameName": "Hashi",
 		"popular": false
 	},
 	{
@@ -1036,6 +1376,11 @@
 	{
 		"gameIndex": "selenite/infiltratingtheairship/index.html",
 		"gameName": "Henry Stickmin - Infiltrating the Airship",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/hex.html",
+		"gameName": "Hex",
 		"popular": false
 	},
 	{
@@ -1065,6 +1410,16 @@
 	{
 		"gameIndex": "selenite/hillclimbracing2/index.html",
 		"gameName": "Hill Climb Racing 2",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/hive-sovereign.html",
+		"gameName": "Hive Sovereign",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/hnefatafl.html",
+		"gameName": "Hnefatafl",
 		"popular": false
 	},
 	{
@@ -1120,6 +1475,16 @@
 	{
 		"gameIndex": "selenite/justfalllol/index.html",
 		"gameName": "justfall.lol",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/kakuro.html",
+		"gameName": "Kakuro",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/killersudoku.html",
+		"gameName": "Killer Sudoku",
 		"popular": false
 	},
 	{
@@ -1198,6 +1563,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/ludo.html",
+		"gameName": "Ludo",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/madalincars/index.html",
 		"gameName": "Madalin Cars",
 		"popular": false
@@ -1213,6 +1583,16 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/mahjong.html",
+		"gameName": "Mahjong",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/mancala.html",
+		"gameName": "Mancala",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/mario/index.html",
 		"gameName": "Mario",
 		"popular": false
@@ -1222,6 +1602,11 @@
 		"gameName": "Marvin Spectrum",
 		"popular": false,
 		"image": "projects/marvinspectrum/marvinspectrum.png"
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/mastermind.html",
+		"gameName": "Mastermind",
+		"popular": false
 	},
 	{
 		"gameIndex": "flash.html?matrixrampage",
@@ -1309,6 +1694,11 @@
 		"image": "projects/missiles/miss.png"
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/moba-frontier.html",
+		"gameName": "MOBA Frontier",
+		"popular": false
+	},
+	{
 		"gameIndex": "projects/money-movers/game.html",
 		"gameName": "Money Movers",
 		"popular": false,
@@ -1345,6 +1735,11 @@
 	{
 		"gameIndex": "selenite/monstertracks/index.html",
 		"gameName": "Monster Tracks",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/moon-lander.html",
+		"gameName": "Moon Lander",
 		"popular": false
 	},
 	{
@@ -1413,6 +1808,11 @@
 		"image": "projects/n-gon/bot.png"
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/nim.html",
+		"gameName": "Nim",
+		"popular": false
+	},
+	{
 		"gameIndex": "projects/ninja/game.html",
 		"gameName": "Ninja",
 		"popular": false,
@@ -1433,6 +1833,11 @@
 	{
 		"gameIndex": "games/nintendogsbestfriends/index.html",
 		"gameName": "Nintendogs: Best Friends",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/nonogram.html",
+		"gameName": "Nonogram",
 		"popular": false
 	},
 	{
@@ -1465,6 +1870,16 @@
 		"image": "projects/om-bounce/assets/icon.jpeg"
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/onitama.html",
+		"gameName": "Onitama",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/orbital-pinball.html",
+		"gameName": "Orbital Pinball",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/osu/index.html",
 		"gameName": "osu!",
 		"popular": false
@@ -1472,6 +1887,11 @@
 	{
 		"gameIndex": "selenite/osumania/index.html",
 		"gameName": "osu!mania",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/othello.html",
+		"gameName": "Othello",
 		"popular": false
 	},
 	{
@@ -1636,6 +2056,11 @@
 		"image": "projects/particle-clicker/assets/mobile/original.png"
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/pegsolitaire.html",
+		"gameName": "Peg Solitaire",
+		"popular": false
+	},
+	{
 		"gameIndex": "projects/penalty-shooter-2/game.html",
 		"gameName": "Penalty Shooters 2",
 		"popular": false,
@@ -1662,6 +2087,11 @@
 		"gameName": "Plants vs Zombies",
 		"popular": false,
 		"image": "projects/plants-vs-zombies/PlantsVsZombies.png"
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/pocket-farm.html",
+		"gameName": "Pocket Farm",
+		"popular": false
 	},
 	{
 		"gameIndex": "selenite/pokemon/index.html",
@@ -1773,6 +2203,11 @@
 		"gameName": "Push Your Luck",
 		"popular": false,
 		"image": "projects/push-your-luck/assets/img/push.png"
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/quoridor.html",
+		"gameName": "Quoridor",
+		"popular": false
 	},
 	{
 		"gameIndex": "projects/rabbit-samurai/game.html",
@@ -1904,6 +2339,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/river-holdem.html",
+		"gameName": "River Holdem",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/rocketleague/index.html",
 		"gameName": "Rocket League",
 		"popular": false
@@ -2021,8 +2461,23 @@
 		"image": "projects/scrapmetal/img/splash.png"
 	},
 	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/senet.html",
+		"gameName": "Senet",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/shadow/index.html",
 		"gameName": "Shadow Client",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/shadow-post.html",
+		"gameName": "Shadow Post",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/shan-hai.html",
+		"gameName": "Shan Hai",
 		"popular": false
 	},
 	{
@@ -2034,6 +2489,11 @@
 			"Credits": "Blue Wizard Digital",
 			"Mode": "Online â€” arena shooter"
 		}
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/shogi.html",
+		"gameName": "Shogi",
+		"popular": false
 	},
 	{
 		"gameIndex": "projects/shuttledeck/game.html",
@@ -2094,6 +2554,16 @@
 		"gameName": "Slime Rush TD",
 		"popular": false,
 		"image": "projects/slime-rush-td/splash.png"
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/slingstorm.html",
+		"gameName": "Slingstorm",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/slitherlink.html",
+		"gameName": "Slitherlink",
+		"popular": false
 	},
 	{
 		"gameIndex": "games/slope/index.html",
@@ -2249,6 +2719,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/spud-arena.html",
+		"gameName": "Spud Arena",
+		"popular": false
+	},
+	{
 		"gameIndex": "games/stack/index.html",
 		"gameName": "Stack",
 		"popular": false,
@@ -2259,6 +2734,11 @@
 		"gameName": "Stack Bump 3D",
 		"popular": false,
 		"image": "projects/stack-bump-3d/thumbnail.jpg"
+	},
+	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/starforge-idle.html",
+		"gameName": "Starforge Idle",
+		"popular": false
 	},
 	{
 		"gameIndex": "projects/station-141/game.html",
@@ -2433,6 +2913,11 @@
 		"image": "projects/tag/logo.jpg"
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/tank-arena.html",
+		"gameName": "Tank Arena",
+		"popular": false
+	},
+	{
 		"gameIndex": "projects/tank-trouble-2/game.html",
 		"gameName": "Tank Trouble 2",
 		"popular": false,
@@ -2560,6 +3045,11 @@
 		"popular": false
 	},
 	{
+		"gameIndex": "https://wangzifan396-wzf.github.io/mini-browser-games/thunder-vanguard.html",
+		"gameName": "Thunder Vanguard",
+		"popular": false
+	},
+	{
 		"gameIndex": "selenite/timeshooter1/index.html",
 		"gameName": "Time Shooter",
 		"popular": false
@@ -2605,6 +3095,11 @@
 	{
 		"gameIndex": "selenite/tabs/index.html",
 		"gameName": "Totally Accurate Battle Simulator",
+		"popular": false
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/hanoi.html",
+		"gameName": "Towers of Hanoi",
 		"popular": false
 	},
 	{
@@ -2836,6 +3331,11 @@
 		"gameName": "X Trial Racing",
 		"popular": false,
 		"image": "projects/x-trial-racing/splash.png"
+	},
+	{
+		"gameIndex": "https://yourchaoschris.github.io/PaperGames/xiangqi.html",
+		"gameName": "Xiangqi",
+		"popular": false
 	},
 	{
 		"gameIndex": "selenite/xx142-b2.exe/index.html",
